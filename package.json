@@ -1,5 +1,5 @@
 {
-  "name": "erc20-token",
+  "name": "@vittominacori/erc20-token",
   "version": "1.0.0",
   "description": "A simple Smart Contract for a Standard, Capped, Mintable, Burnable, Payable ERC20 Token.",
   "files": [
